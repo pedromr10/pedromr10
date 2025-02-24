@@ -1,13 +1,19 @@
 <h1 align="center">Pedro Munhoz Rosin</h1>
 
 ###
-
+<h2 align="center">Sobre mim / About me:</h2>
 <p align="center">Estudante de Ciências da Computação. <br>Adoro programar e aprender coisas novas.<br>Estou disposto a sempre adquirir novos conhecimentos.</p>
 <p align="center">Computer Science student. <br>I love programming and learning new things. <br>I am always willing to acquire new knowledge.</p>
 
+<h2 align="center">Hobbies:</h2>
+<p align="center">:video_game: Jogar / Play videogames</p>
+<p align="center">:books: Ler / Read</p>
+<p align="center">:computer: Programar / Programming</p>
+<p align="center">:pencil2: Aprender coisas novas / Learning new things</p>
+
 ###
 
-<p align="center">Linguagens de programação:</p>
+<h2 align="left">Habilidades / Skills:</h2>
 
 ###
 
@@ -25,7 +31,7 @@
 
 ###
 
-<p align="center">Redes sociais:</p>
+<h2 align="center">Redes sociais / Social Media:</h2>
 
 ###
 
