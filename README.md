@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">Habilidades / Skills:</h2>
+<h2 align="center">Habilidades / Skills:</h2>
 
 ###
 
