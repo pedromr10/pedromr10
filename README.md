@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Munhoz Rosin</h1>
+<h1 align="left">Pedro Munhoz Rosin</h1>
 
 ###
 <h2 align="center">Sobre mim / About me:</h2>
