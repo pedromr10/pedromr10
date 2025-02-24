@@ -1,8 +1,9 @@
-<h2 align="center">Pedro Munhoz Rosin</h2>
+<h1 align="center">Pedro Munhoz Rosin</h1>
 
 ###
 
 <p align="center">Estudante de Ciências da Computação. <br>Adoro programar e aprender coisas novas.<br>Estou disposto a sempre adquirir novos conhecimentos.</p>
+<p align="center">Computer Science student. <br>I love programming and learning new things. <br>I am always willing to acquire new knowledge.</p>
 
 ###
 
