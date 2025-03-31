@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/pedromunhozrosin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-    <a href="BeeCrowd: https://judge.beecrowd.com/pt/profile/1121652" target="_blank">
+    <a href="https://judge.beecrowd.com/pt/profile/1121652" target="_blank">
     <img src="https://media.licdn.com/dms/image/v2/C4D0BAQGrWRhsO-hrOQ/company-logo_200_200/company-logo_200_200/0/1635259587016/beecrowd_logo?e=2147483647&v=beta&t=tOYR1C5pmsF9Q-kmgjD10oNbz9P25DlBhx_mZ1M3NVk" height="70" alt="beecrowd logo"  />
   </a>
 </div>
