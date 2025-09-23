@@ -21,7 +21,7 @@
 
 ###
 
-<h2>Linguagens a aprender:</h2>
+<h2 align = center>Linguagens a aprender:</h2>
 
 - [ ] Java
 - [ ] Kotlin
