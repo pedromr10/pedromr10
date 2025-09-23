@@ -27,6 +27,8 @@
 - [ ] Kotlin
 - [ ] SQL
 
+
+
 <h2 align="center">Redes sociais:</h2>
 
 ###
