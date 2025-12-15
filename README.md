@@ -46,7 +46,8 @@ aprender com o time e evoluir profissionalmente.
 <h2 align="center">🚀 Projetos em Destaque</h2>
 <h3 align="center">🌐 Web</h3>
 <p align="center">
-Projetos criados para aprendizagem e portfólio sobre desenvolvimento web.
+Projetos voltados ao desenvolvimento de aplicações web, incluindo criação de interfaces,
+integração com banco de dados e consumo de APIs.
 </p>
 <p align="center">
 HTML5, CSS, PHP, SQL, JavaScript, React
@@ -54,6 +55,7 @@ HTML5, CSS, PHP, SQL, JavaScript, React
 <p align="center">
 🔗 <a href="https://github.com/pedromr10/Web">Repositório</a>
 </p>
+
 <h3 align="center">🐍 Python</h3>
 <p align="center">
 Projetos criados a partir de Python.
