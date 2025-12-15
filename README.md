@@ -1,8 +1,22 @@
-<h1 align="left">Pedro Munhoz Rosin</h1>
+<h1 align="center">Pedro Munhoz Rosin</h1>
+
+<h2 align="center">Contato:</h2>
+<p align="center">📧 E-mail: pedromrtrab@gmail.com</p>
+<p align="center">
+💼 Linkedin:
+<a href="https://www.linkedin.com/in/pedromunhozrosin/">pedromunhozrosin</a>
+</p>
+
 
 ###
 <h2 align="center">Sobre mim:</h2>
-<p align="center">Estudante de Ciências da Computação. <br>Adoro programar e aprender coisas novas.<br>Estou disposto a sempre adquirir novos conhecimentos.</p>
+<p align="center">Estudante de Ciência da Computação, com interesse em desenvolvimento de software
+e sistemas computacionais. Possuo experiência com projetos acadêmicos e pessoais
+utilizando Python, C/C++ e tecnologias web.
+
+Busco uma oportunidade de posição júnior para aplicar meus conhecimentos,
+aprender com o time e evoluir profissionalmente.
+</p>
 <h2 align="center">Habilidades:</h2>
 
 ###
@@ -28,3 +42,42 @@
 </div>
 
 ###
+
+<h2 align="center">🚀 Projetos em Destaque</h2>
+<h3 align="center">🌐 Web</h3>
+<p align="center">
+Projetos criados para aprendizagem e portfólio sobre desenvolvimento web.
+</p>
+<p align="center">
+HTML5, CSS, PHP, SQL, JavaScript, React
+</p>
+<p align="center">
+🔗 <a href="https://github.com/pedromr10/Web">Repositório</a>
+</p>
+<h3 align="center">🐍 Python</h3>
+<p align="center">
+Projetos criados a partir de Python.
+</p>
+<p align="center">
+Python, Flask
+</p>
+<p align="center">
+🔗 <a href="https://github.com/pedromr10/Python">Repositório</a>
+</p>
+
+<p align="center">
+📫 Fique à vontade para entrar em contato ou conhecer meus projetos!
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
