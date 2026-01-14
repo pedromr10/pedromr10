@@ -17,7 +17,7 @@ Busco uma oportunidade de posição júnior para aplicar meus conhecimentos,
 aprender com o time e evoluir profissionalmente.
 </p>
 
-<h2 align="center">📚 Atualmente estudando:</h2>
+<h2 align="center">Atualmente estudando:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" alt="html logo"/>
   <img width="12" />
@@ -31,7 +31,7 @@ aprender com o time e evoluir profissionalmente.
           
 </div>
 
-<h2 align="center">🛠️ Habilidades:</h2>
+<h2 align="center">Habilidades:</h2>
 
 ###
 <div align="center">
@@ -52,7 +52,7 @@ aprender com o time e evoluir profissionalmente.
 
 ###
 
-<h2 align="center">🚀 Projetos em Destaque</h2>
+<h2 align="center">Projetos em Destaque</h2>
 <h3 align="center">🌐 Web</h3>
 <p align="center">
 Projetos voltados ao desenvolvimento de aplicações web, incluindo criação de interfaces,
