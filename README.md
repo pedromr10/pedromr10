@@ -4,7 +4,7 @@
 <p align="center">📧 E-mail: pedromrtrab@gmail.com</p>
 <p align="center">
 💼 Linkedin:
-<a href="https://www.linkedin.com/in/pedromunhozrosin/">pedromunhozrosin</a>
+<a href="https://www.linkedin.com/in/pedromunhozrosin-dev/">pedromunhozrosin</a>
 </p>
 
 
