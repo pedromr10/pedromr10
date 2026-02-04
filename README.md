@@ -10,7 +10,7 @@
 
 ###
 <h2 align="center">Sobre mim:</h2>
-<p align="center">Estudante de Ciência da Computação, com interesse em desenvolvimento de software
+<p align="center">Graduado em Ciência da Computação, com interesse em desenvolvimento de software
 e sistemas computacionais. Possuo experiência com projetos acadêmicos e pessoais
 utilizando Python, C/C++ e tecnologias web.
 Busco uma oportunidade de posição júnior para aplicar meus conhecimentos,
