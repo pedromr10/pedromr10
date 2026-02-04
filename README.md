@@ -24,10 +24,10 @@ aprender com o time e evoluir profissionalmente.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="30" alt="css logo"/>
   <img width="12" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="js logo"/>
-  <img width="12" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="30"/>
-    <img width="12" />   
+  <img width="12" />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="30"/>
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
           
 </div>
 
