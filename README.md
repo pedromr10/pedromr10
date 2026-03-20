@@ -76,6 +76,17 @@ Python, Flask
 🔗 <a href="https://github.com/pedromr10/Python">Repositório</a>
 </p>
 
+<h3 align="center">☕ Java</h3>
+<p align="center">
+Projetos criados a partir de Java.
+</p>
+<p align="center">
+Java, Spring
+</p>
+<p align="center">
+🔗 <a href="https://github.com/pedromr10/Java">Repositório</a>
+</p>
+
 <p align="center">
 📫 Fique à vontade para entrar em contato ou conhecer meus projetos!
 </p>
