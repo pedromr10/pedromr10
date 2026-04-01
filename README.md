@@ -20,8 +20,9 @@ aprender com o time e evoluir profissionalmente.
 <h2 align="center">Atualmente estudando:</h2>
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="spring logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"  height="50" alt="mongodb logo"/>
           
           
