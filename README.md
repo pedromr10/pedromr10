@@ -10,11 +10,7 @@
 
 ###
 <h2 align="center">Sobre mim:</h2>
-<p align="center">Graduado em Ciência da Computação, com interesse em desenvolvimento de software
-e sistemas computacionais. Possuo experiência com projetos acadêmicos e pessoais
-utilizando Python, C/C++ e tecnologias web.
-Busco uma oportunidade de posição júnior para aplicar meus conhecimentos,
-aprender com o time e evoluir profissionalmente.
+<p align="center">Graduado em Ciência da Computação, com interesse em desenvolvimento de software e sistemas computacionais. Possuo experiência em projetos acadêmicos e pessoais, utilizando linguagens como Python, C/C++ e Java, além de desenvolvimento de APIs com Spring Boot. Também tenho familiaridade com bancos de dados relacionais (SQL) e não relacionais (MongoDB), bem como com tecnologias web. Busco uma oportunidade em posição júnior para aplicar meus conhecimentos, contribuir com o time e continuar evoluindo profissionalmente.
 </p>
 
 <h2 align="center">Atualmente estudando:</h2>
@@ -53,8 +49,7 @@ aprender com o time e evoluir profissionalmente.
 <h2 align="center">Projetos em Destaque</h2>
 <h3 align="center">🌐 Web</h3>
 <p align="center">
-Projetos voltados ao desenvolvimento de aplicações web, incluindo criação de interfaces,
-integração com banco de dados e consumo de APIs.
+Projetos voltados ao desenvolvimento de aplicações web.
 </p>
 <p align="center">
 HTML5, CSS, PHP, SQL, JavaScript, React
@@ -79,7 +74,7 @@ Python, Flask
 Projetos criados a partir de Java.
 </p>
 <p align="center">
-Java, Spring
+Java, Spring, MongoDB, Postman
 </p>
 <p align="center">
 🔗 <a href="https://github.com/pedromr10/Java">Repositório</a>
