@@ -71,15 +71,15 @@ Python, Flask
 🔗 <a href="https://github.com/pedromr10/Python">Repositório</a>
 </p>
 
-<h3 align="center">☕ Java</h3>
+<h3 align="center">🌱 Spring Boot</h3>
 <p align="center">
-Projetos criados a partir de Java.
+Projetos de Spring Boot criados a partir de Java.
 </p>
 <p align="center">
-Java, Spring, MongoDB, Postman
+Java, Spring boot, MongoDB, Postman, Maven, JPA, MongoDB, PostgreSQL, SQL, H2 database, Validation, Swagger OpenAPI
 </p>
 <p align="center">
-🔗 <a href="https://github.com/pedromr10/Java">Repositório</a>
+🔗 <a href="https://github.com/pedromr10/SpringBoot">Repositório</a>
 </p>
 
 <p align="center">
